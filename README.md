@@ -1,6 +1,8 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealIanX&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+## Welcome to my profile 😄
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealIanX&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealIanX&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RealIanX&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <!--
 **RealIanX/RealIanX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
